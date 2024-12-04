@@ -6,6 +6,5 @@ matplotlib
 statistics
 seaborn
 pandas_datareader
-scipy.optimize
+scipy
 istatsmodels
-scipy.stats
