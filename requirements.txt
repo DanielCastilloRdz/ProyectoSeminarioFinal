@@ -8,3 +8,10 @@ seaborn
 pandas_datareader
 scipy
 statsmodels
+
+matplotlib
+plotly
+xlrd
+exchange_calendars
+openpyxl
+yfinance
