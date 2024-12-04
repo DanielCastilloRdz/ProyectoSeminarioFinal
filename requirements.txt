@@ -2,10 +2,10 @@ yfinance
 pandas
 datetime
 numpy
-matplotlib.pyplot
+matplotlib
 statistics
 seaborn
 pandas_datareader
 scipy.optimize
-istatsmodels.api
+istatsmodels
 scipy.stats
