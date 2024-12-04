@@ -1,0 +1,11 @@
+yfinance
+pandas
+datetime
+numpy
+matplotlib.pyplot
+statistics
+seaborn
+pandas_datareader
+scipy.optimize
+istatsmodels.api
+scipy.stats
